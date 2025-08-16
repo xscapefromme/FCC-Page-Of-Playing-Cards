@@ -39,4 +39,4 @@ Passed:17. You should have a .middle selector that sets its elements' display to
 Failed:18. You should have a flex-direction set to column in your .middle class.
 
 
-![App preview]https://github.com/xscapefromme/FCC-Page-Of-Playing-Cards/issues/1#issue-3327542216
+[App preview]https://github.com/xscapefromme/FCC-Page-Of-Playing-Cards/issues/1#issue-3327542216
