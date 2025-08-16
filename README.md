@@ -20,23 +20,43 @@ Each of your .middle elements should use flexbox to display its children in a co
 Here are some characters you can copy and paste to use in your cards if you want: ♠, ♣, ♥, and ♦.
 
 1. You should have a main element with an id of playing-cards.
-Passed:2. You should have at least three div elements with a class of card within your #playing-cards element.
-Passed:3. Each of your .card elements should have a width and height.
-Passed:4. Each of your .card elements should have exactly three div elements as children.
-Passed:5. You should have a div with a class of left within each .card element.
-Passed:6. You should have a div with a class of middle within each .card element.
-Passed:7. You should have a div with a class of right within each .card element.
-Passed:8. You should have a #playing-cards selector that sets its elements' display to flex.
-Passed:9. You should have a #playing-cards selector that sets its elements' justify-content to center.
-Passed:10. You should have a #playing-cards selector that sets its elements' flex-wrap to wrap.
-Passed:11. You should have a #playing-cards selector that sets its elements' gap to 20px.
-Failed:12. You should have a .card selector that sets its elements' display to flex.
-Failed:13. You should have a .card selector that sets its elements' justify-content to space-between.
-Failed:14. You should have a .left selector that sets its elements' align-self to flex-start.
-Failed:15. You should have a .middle selector that sets its elements' align-self to center.
-Failed:16. You should have a .right selector that sets its elements' align-self to flex-end.
-Passed:17. You should have a .middle selector that sets its elements' display to flex.
-Failed:18. You should have a flex-direction set to column in your .middle class.
+Passed:
+2. You should have at least three div elements with a class of card within your #playing-cards element.
+Passed:
+3. Each of your .card elements should have a width and height.
+Passed:
+4. Each of your .card elements should have exactly three div elements as children.
+Passed:
+5. You should have a div with a class of left within each .card element.
+Passed:
+6. You should have a div with a class of middle within each .card element.
+Passed:
+7. You should have a div with a class of right within each .card element.
+Passed:
+8. You should have a #playing-cards selector that sets its elements' display to flex.
+Passed:
+9. You should have a #playing-cards selector that sets its elements' justify-content to center.
+Passed:
+10. You should have a #playing-cards selector that sets its elements' flex-wrap to wrap.
+Passed:
+11. You should have a #playing-cards selector that sets its elements' gap to 20px.
+Passed:
+12. You should have a .card selector that sets its elements' display to flex.
+Passed:
+13. You should have a .card selector that sets its elements' justify-content to space-between.
+Passed:
+14. You should have a .left selector that sets its elements' align-self to flex-start.
+Passed:
+15. You should have a .middle selector that sets its elements' align-self to center.
+Passed:
+16. You should have a .right selector that sets its elements' align-self to flex-end.
+Passed:
+17. You should have a .middle selector that sets its elements' display to flex.
+Passed:
+18. You should have a flex-direction set to column in your .middle class.
 
+<img width="854" height="684" alt="Screenshot 2025-08-16 at 12 06 40 PM" src="https://github.com/user-attachments/assets/c93f9873-773e-4689-a6f3-44bb42b9b16f" />
+<img width="928" height="802" alt="Screenshot 2025-08-16 at 12 06 53 PM" src="https://github.com/user-attachments/assets/4006a4e5-779b-45b1-8c99-6912c48e5a7b" />
 
 [[App preview](https://github.com/xscapefromme/FCC-Page-Of-Playing-Cards/issues/1#issue-3327542216)]
+[Finished Project](https://github.com/xscapefromme/FCC-Page-Of-Playing-Cards/issues/2#issue-3327549822)] 
