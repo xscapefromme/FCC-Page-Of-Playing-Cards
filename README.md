@@ -37,3 +37,6 @@ Failed:15. You should have a .middle selector that sets its elements' align-self
 Failed:16. You should have a .right selector that sets its elements' align-self to flex-end.
 Passed:17. You should have a .middle selector that sets its elements' display to flex.
 Failed:18. You should have a flex-direction set to column in your .middle class.
+
+
+https://github.com/xscapefromme/FCC-Page-Of-Playing-Cards/issues/1#issue-3327542216
