@@ -55,8 +55,11 @@ Passed:
 Passed:
 18. You should have a flex-direction set to column in your .middle class.
 
-[[App preview](<img width="854" height="684" alt="Screenshot 2025-08-16 at 12 06 40 PM" src="https://github.com/user-attachments/assets/c93f9873-773e-4689-a6f3-44bb42b9b16f" />)]
-[[Finished Project](<img width="928" height="802" alt="Screenshot 2025-08-16 at 12 06 53 PM" src="https://github.com/user-attachments/assets/4006a4e5-779b-45b1-8c99-6912c48e5a7b" />)]
+    <h1>Preview</h1>
+<img width="854" height="684" alt="Screenshot 2025-08-16 at 12 06 40 PM" src="https://github.com/user-attachments/assets/c93f9873-773e-4689-a6f3-44bb42b9b16f" />
+
+ <h1>Finished Project👇</h1> 
+<img width="928" height="802" alt="Screenshot 2025-08-16 at 12 06 53 PM" src="https://github.com/user-attachments/assets/4006a4e5-779b-45b1-8c99-6912c48e5a7b" />
 
 [[App preview](https://github.com/xscapefromme/FCC-Page-Of-Playing-Cards/issues/1#issue-3327542216)]
 [Finished Project](https://github.com/xscapefromme/FCC-Page-Of-Playing-Cards/issues/2#issue-3327549822)] 
