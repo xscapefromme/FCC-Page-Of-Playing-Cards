@@ -1,7 +1,7 @@
 # FCC-Page-Of-Playing-Cards
 
 Build a Page of Playing Cards
-Build an app that is functionally similar to this example project. Try not to copy the example project, give it your own personal style.
+Build an app that is functionally similar to this example project [(https://www.freecodecamp.org/learn/full-stack-developer/lab-page-of-playing-cards/build-a-page-of-playing-cards)]. Try not to copy the example project, give it your own personal style.
 
 Objective: Fulfill the user stories below and get all the tests to pass to complete the lab.
 
